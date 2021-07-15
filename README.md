@@ -37,8 +37,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Site](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/sammy8825/Stats-preview-card-component)
+- Live Site URL: [Site](https://happy-hugle-fc9a19.netlify.app/)
 
 ## My process
 
